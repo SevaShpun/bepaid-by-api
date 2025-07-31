@@ -1,7 +1,7 @@
 # bepaid-by-api
 Платежная система https://bepaid.by/
 
-<a href="https://bepaid.by/" target="_blank"><img src="https://i.ibb.co/q3pgK5JS/bepaid-logot.png"></a>
+![Image alt](https://i.ibb.co/q3pgK5JS/bepaid-logot.png)
 
 ### 1. Создаем виртуальное окружение
 

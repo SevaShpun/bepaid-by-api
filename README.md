@@ -5,12 +5,12 @@
 
 Windows
 ```bash
-python -m vemv venv
+python -m venv venv
 ```
 
 Linux
 ```bash
-python3 -m vemv venv
+python3 -m venv venv
 ```
 ### 2. Переходим в виртуальное окружение
 
